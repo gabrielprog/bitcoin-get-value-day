@@ -7,6 +7,12 @@ Desafio feito com reactJS, Projeto usando mascaras de inputs e consumo de api
 1. BABEL
 1. AXIOS
 
+# :cowboy_hat_face: | MODO DE USAR
+```sh
+yarn install
+yarn dev
+```
+
 # 😱 | RESULTADO
 <img src='img/ipad-1.PNG'/>
 
