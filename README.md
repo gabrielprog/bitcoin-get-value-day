@@ -2,10 +2,10 @@
 Desafio feito com reactJS, Projeto usando mascaras de inputs e consumo de api
 
 # 🚀 | Tecnologias
-REACTJS
-WEBPACK
-BABEL
-AXIOS
+1. REACTJS
+1. WEBPACK
+1. BABEL
+1. AXIOS
 
 # 😱 | RESULTADO
 <img src='img/ipad-1.PNG'/>
